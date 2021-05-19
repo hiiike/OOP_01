@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1_lab1.3.cpp
+D:\Навчання\oop.labs\lab1.3\lab1.3\FuzzyNumber.cpp(64,11): warning C4804: >: небезопасное использование типа "bool" в операции
+D:\Навчання\oop.labs\lab1.3\lab1.3\FuzzyNumber.cpp(76,11): warning C4804: >: небезопасное использование типа "bool" в операции
+     Создается библиотека D:\Навчання\oop.labs\lab1.3\Debug\UnitTest1_lab1.3.lib и объект D:\Навчання\oop.labs\lab1.3\Debug\UnitTest1_lab1.3.exp
+  UnitTest1_lab1.3.vcxproj -> D:\Навчання\oop.labs\lab1.3\Debug\UnitTest1_lab1.3.dll

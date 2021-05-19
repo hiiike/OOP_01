@@ -1,0 +1,6 @@
+﻿  FuzzyNumber.cpp
+D:\Навчання\oop.labs\lab1.3\lab1.3\FuzzyNumber.cpp(64,11): warning C4804: >: небезопасное использование типа "bool" в операции
+D:\Навчання\oop.labs\lab1.3\lab1.3\FuzzyNumber.cpp(76,11): warning C4804: >: небезопасное использование типа "bool" в операции
+  Source.cpp
+  Создание кода...
+  lab1.3.vcxproj -> D:\Навчання\oop.labs\lab1.3\Debug\lab1.3.exe
